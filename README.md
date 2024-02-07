@@ -5,9 +5,5 @@ I am a front-end developer with a passion for crafting user interfaces, my journ
  <img src="https://www.svgrepo.com/show/374061/sass.svg" width="64"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="64"> <img src="https://www.svgrepo.com/show/373535/css.svg" width="64"> <img src="https://www.svgrepo.com/show/354552/webpack.svg" width="64">
 
 | <img src="https://www.svgrepo.com/show/353925/javascript.svg" width="64"> | Box 2 | Box 3 | Box 4 | Box 5 |
+  Javascript
 |-------|-------|-------|-------|-------|
-
-| Box 1             | Box 2             | Box 3             | Box 4             | Box 5             |
-|-------------------|-------------------|-------------------|-------------------|-------------------|
-| Content of Box 1  | Content of Box 2  | Content of Box 3  | Content of Box 4  | Content of Box 5  |
-| Label 1           | Label 2           | Label 3           | Label 4           | Label 5           |
