@@ -6,5 +6,5 @@ I am a front-end developer with a passion for crafting user interfaces, my journ
 
 ## Technologies | Tools 🪛    
 
-| <img src="https://www.svgrepo.com/show/353925/javascript.svg" width="4rem"> <br> JavaScript | <img src="https://www.svgrepo.com/show/374061/sass.svg" width="64"> <br> Sass | <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="64"> <br> Html | <img src="https://www.svgrepo.com/show/373535/css.svg" width="64"> <br> Css | <img src="https://www.svgrepo.com/show/354552/webpack.svg" width="64"> <br> Webpack |
+| <img src="https://www.svgrepo.com/show/353925/javascript.svg" width="64"> <br> JavaScript | <img src="https://www.svgrepo.com/show/374061/sass.svg" width="64"> <br> Sass | <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="64"> <br> Html | <img src="https://www.svgrepo.com/show/373535/css.svg" width="64"> <br> Css | <img src="https://www.svgrepo.com/show/354552/webpack.svg" width="64"> <br> Webpack |
 |-------|-------|-------|-------|-------|
