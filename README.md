@@ -1,5 +1,5 @@
 # Hi there 👋
-I am a front-end developer, my journey started when I stumbled upon The Odin Project, which fueled my desire to dive deep into web development. 
+My journey started when I stumbled upon The Odin Project, which sparked my interest to dive deep into web developmen!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oscar-herrera-/)
 
