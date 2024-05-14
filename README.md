@@ -1,5 +1,5 @@
 # Hi there 👋
-My journey started when I stumbled upon The Odin Project, which sparked my interest to dive deep into web developmen!
+My journey started when I stumbled upon The Odin Project, which sparked my interest to dive deep into web development!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oscar-herrera-/)
 
