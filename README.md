@@ -3,6 +3,8 @@ My journey started when I stumbled upon The Odin Project, which sparked my inter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oscar-herrera-/)
 
+### Currently working on [Musica](https://music-app-react-five.vercel.app/) , and [EatBetter](https://eat-better.vercel.app/)
+
 
 ## Technologies | Tools 🪛    
 
