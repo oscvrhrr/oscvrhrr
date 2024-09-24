@@ -9,9 +9,9 @@ My journey started when I stumbled upon The Odin Project, which sparked my inter
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | **JavaScript** | **React** | **Next** | **Sass** | **Tailwind** | **Vite** |
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" style="padding:16px;"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" style="padding:16px;"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" style="padding:16px;"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="60" height="60" style="padding:16px;"/> |
-|:--:|:--:|:--:|:--:|
-| **Node** | **Express** | **PostgreSQL** | **Supabase** | 
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" style="padding:16px;"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" style="padding:16px;"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" style="padding:16px;"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="60" height="60" style="padding:16px;"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="60" height="60" style="padding:16px;"/> |
+|:--:|:--:|:--:|:--:|:--:|
+| **Node** | **Express** | **PostgreSQL** | **Supabase** | **Prisma** |
 
 
 
